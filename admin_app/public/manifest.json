@@ -1,0 +1,22 @@
+{
+  "short_name": "CurateDrop",
+  "name": "CurateDrop Admin Suite",
+  "description": "CurateDrop Field & Delivery Operations",
+  "icons": [
+    {
+      "src": "/pwa-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#F59E0B",
+  "display": "standalone",
+  "orientation": "portrait"
+}
